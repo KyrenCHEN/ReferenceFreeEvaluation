@@ -1,0 +1,15 @@
+ENVI
+description = {
+  Create New File Result [Fri Mar 23 17:04:45 2012]}
+samples = 2800
+lines   = 3100
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Warp (Rotate (Band Math (b1-b2):lidar_cut_result):lidar_cut_remote)}
